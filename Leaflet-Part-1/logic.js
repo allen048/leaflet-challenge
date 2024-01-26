@@ -35,7 +35,7 @@ legend.addTo(mymap);
 
 var geojsonLayer = L.geoJson().addTo(mymap);
 
-d3.json("https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson").then(function(data) {
+d3.json("https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson").then(function(data) {
     L.geoJson(data, {
         pointToLayer: function (feature, latlng) {
             return L.circleMarker(latlng);
