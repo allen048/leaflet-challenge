@@ -6,4 +6,12 @@ This project required using Leaflet to create a map that plots all the earthquak
 
 This was a very interesting assignment, because I was able to learn more about javascript and how to develop maps for analysis. If it was not for this course, I would have never thought about creating a map layout for visualization. It was very intriguing being able to approach this task to learn something new through a technnical perspective.
 
+• Module 15 Challenge Citations:
 
+Website Citation: https://bootcampspot.instructure.com/courses/4938/assignments/61914?module_item_id=1077297
+
+'Title:<index.html> 'Author:Qasim Khilji 'Date:<2024> 'Code Version:<1.0> 'Availability:https://github.com/mqkhilji/leaflet-challenge/blob/main/index.html
+
+'Title:<scripts.js> 'Author:Qasim Khilji 'Date:<2024> 'Code Version:<1.0> 'Availability:https://github.com/mqkhilji/leaflet-challenge/blob/main/scripts.js
+
+'Title:<styles.css> 'Author:Qasim Khilji 'Date:<2024> 'Code Version:<1.0> 'Availability:https://github.com/mqkhilji/leaflet-challenge/blob/main/styles.css
